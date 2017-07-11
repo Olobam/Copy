@@ -213,3 +213,4 @@
 [lux]anonymousassasin
 [yasuo]DravenGG
 [yasuo]DeSibyl
+[yasuo]toadboy
