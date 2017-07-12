@@ -214,3 +214,4 @@
 [yasuo]DravenGG
 [yasuo]DeSibyl
 [yasuo]toadboy
+[yasuo]ElPastel
