@@ -215,3 +215,4 @@
 [yasuo]DeSibyl
 [yasuo]toadboy
 [yasuo]ElPastel
+[yasuo]baldissarella
