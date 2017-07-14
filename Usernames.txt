@@ -217,3 +217,4 @@
 [yasuo]ElPastel
 [yasuo]baldissarella
 [lux]RemindZ
+[yasuo]Flaminkurry
