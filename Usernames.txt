@@ -47,6 +47,7 @@
 [riven]PunchingJay
 [riven]Akenia
 [riven]hi im gosu
+[riven]spangled
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
