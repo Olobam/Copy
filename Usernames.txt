@@ -44,6 +44,7 @@
 [all]RandomRitoSpy
 [all]Bik
 [all]davidlaura
+[riven]stipy2
 [riven]PunchingJay
 [riven]Akenia
 [riven]hi im gosu
