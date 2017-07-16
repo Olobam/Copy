@@ -64,6 +64,7 @@
 [lux]derbosss
 [lux,illaoi]zdeadlysinz
 [all]Pejsker
+[riven]Niglegend
 [yasuo]Galenowa19
 [all]Gamepost
 [illaoi]FoxR
