@@ -212,7 +212,7 @@
 [yasuo]Noragiri
 [yasuo]chayi7382
 [yasuo]yanminglai
-[lux]kremisisupremo
+[yasuo]kremisisupremo
 [yasuo]faisalrko
 [yasuo,lux]championsof67
 [lux]anonymousassasin
