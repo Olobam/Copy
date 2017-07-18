@@ -46,6 +46,7 @@
 [all]davidlaura
 [yasuo]Whiteglint07
 [yasuo]cyz5590429
+[riven]yanminglai
 [riven]stipy2
 [riven]PunchingJay
 [riven]Akenia
