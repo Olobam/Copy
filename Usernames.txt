@@ -139,7 +139,7 @@
 [lux]Jkiest9
 [yasuo]HalfbloodPr
 [lux]fasfad
-[yasuo]tkacjs02
+[yasuo,riven]tkacjs02
 [yasuo]kcorj2244
 [yasuo]unclechris
 [yasuo]ShadyXV
