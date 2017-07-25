@@ -55,6 +55,7 @@
 [riven]PunchingJay
 [riven]Akenia
 [riven]hi im gosu
+[lux]tonistaro
 [riven]spangled
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
