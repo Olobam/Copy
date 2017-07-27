@@ -74,6 +74,7 @@
 [all]Pejsker
 [riven]Niglegend
 [yasuo]Galenowa19
+[riven]johnykoenighaus
 [all]Gamepost
 [illaoi]FoxR
 [illaoi,lux,yasuo]MaeHee
