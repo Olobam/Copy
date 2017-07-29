@@ -142,7 +142,7 @@
 [yasuo]MrEklo
 [lux]Jkiest9
 [yasuo]HalfbloodPr
-[lux]fasfad
+[lux,yasuo]fasfad
 [yasuo,riven]tkacjs02
 [yasuo]kcorj2244
 [yasuo]unclechris
@@ -236,3 +236,4 @@
 [yasuo]416132980
 [yasuo]94325372
 [riven]hejniclas
+[riven]supffs
