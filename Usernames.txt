@@ -58,6 +58,7 @@
 [riven]Akenia
 [riven]hi im gosu
 [lux]tonistaro
+[lux]boucliman
 [riven]spangled
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
