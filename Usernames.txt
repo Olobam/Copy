@@ -45,6 +45,7 @@
 [all]Bik
 [all]davidlaura
 [all]gustavomatteo
+[riven]Xatus
 [riven]XiSl0w
 [yasuo]Razzi
 [yasuo]Whiteglint07
