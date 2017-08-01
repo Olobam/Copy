@@ -61,6 +61,7 @@
 [lux]tonistaro
 [lux]boucliman
 [riven]spangled
+[yasuo]Kamogli
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
