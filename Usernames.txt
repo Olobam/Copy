@@ -242,4 +242,6 @@
 [yasuo]94325372
 [riven]hejniclas
 [riven]supffs
-[yasuo)OneGamma
+[yasuo]OneGamma
+[riven]Yidhra
+[yasuo]rock7388086
