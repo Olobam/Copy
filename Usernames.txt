@@ -80,7 +80,7 @@
 [riven]Niglegend
 [yasuo]Galenowa19
 [riven]johnykoenighaus
-[all]Gamepost
+[all]olo
 [illaoi]FoxR
 [illaoi,lux,yasuo]MaeHee
 [lux,yasuo]cttman123
